@@ -15,7 +15,5 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         helloLabel.backgroundColor = UIColor.red
     }
-
-
 }
 
