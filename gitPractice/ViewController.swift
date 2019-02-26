@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var helloLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        helloLabel.backgroundColor = UIColor.red
+        helloLabel.backgroundColor = UIColor.black
     }
 
 
